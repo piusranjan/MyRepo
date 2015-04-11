@@ -1,10 +1,8 @@
 # MyRepo
 
-The Probblem can be tested with mvn clean install
+The  solution  can be tested with below command inside the directory airport-baggage 
 
-Outpout:
-
-Output is is printed as a part of System .out.println
+mvn clean install
 
 Junit Test Case: 
 Currently Junit test cases is covering  
@@ -16,7 +14,7 @@ Dijkstra's  algorithm is used to find the minimal distance betwwen twe Nodes.
 
 For different test data like Graph structure, Flight Details, one need to modify the test data in Junit test cases
 
-Below Is the sample output.
+Below Is the sample output as a part of System.out.println
 
 ************graph Start*************************
 Edge_0 : Concourse_A_Ticketing------>A5 distance :5
